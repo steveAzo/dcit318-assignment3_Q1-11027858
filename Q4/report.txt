@@ -1,0 +1,4 @@
+John Doe (101): Score = 85, Grade = A
+Jane Smith (102): Score = 92, Grade = A
+Michael Johnson (103): Score = 78, Grade = B
+Sarah Williams (104): Score = 88, Grade = A
